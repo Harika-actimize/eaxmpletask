@@ -1,0 +1,187 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imagelink": "../phone.jpg",
+      "gallery": [
+        {
+          "id": 1,
+          "imagelink": "https://www.powersupport.hk/media/catalog/product/cache/fa555731a6cac5400818d946293c5dab/p/s/ps-air-jacket-iphone-14-pro-pro-max-3-lens-clear-08_1_2.jpg",
+          "price": "₹ 30,000",
+          "imagename": "iPhone14Pro",
+          "description": "The iPhone 14 Pro and iPhone 14 Pro Max have the main wide-angle, ultra-wide-angle and a 3x telephoto camera for portraits and optical zoom.."
+        },
+        {
+          "id": 2,
+          "imagelink": "https://pricespy-75b8.kxcdn.com/product/standard/280/5306321.jpg",
+          "price": "₹ 30,000",
+          "imagename": "iPhoneSE",
+          "description": "4.0. Apple announced the iPhone SE (third-generation) in March 2022 to act as the new budget iPhone. It has a 12MP camera with 4K video, a 7MP selfie camera, wireless charging, and an A15 chipset. The latest model also comes with 5G capabilities."
+        },
+        {
+          "id": 3,
+          "imagelink": "https://theimaginestore.com/cache/medium/product/1553/vXO1UuLAL0TMK2L04jErmCPZFFh4FGxtBcLxiysH.jpg",
+          "price": "₹ 30,000",
+          "imagename": "iPhone13",
+          "description": "With built-in magnets that align perfectly with iPhone 13, this case offers a magical attach experience and faster wireless charging, every time. When it's time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi-certified charger."
+        },
+        {
+          "id": 4,
+          "imagelink": "https://gnslondon.co.uk/wp-content/uploads/2021/08/admin-ajax-32.png",
+          "price": "₹ 30,000",
+          "imagename": "iPhone12",
+          "description": "Magsafe cases have magnets integrated into the back. This allows for the iPhone 12 to securely snap directly onto a Magsafe case and for external magsafe accessories, such as the wireless charger, to do the same."
+        },
+        {
+          "id": 5,
+          "imagelink": "https://m.xcite.com/media/richcontent/MHLM3ZMA-632208.jpg",
+          "price": "₹ 30,000",
+          "imagename": "iPhoneProMax",
+          "description": "The MagSafe Charger is designed to quickly and safely wirelessly charge your iPhone. The system intelligently adapts to conditions in order to optimize charging your iPhone at up to 15W of peak power delivery for faster wireless charging."
+        }
+      ],
+      "price": "₹ 50,000",
+      "actulprice": "15%off",
+      "imagename": "iPhone",
+      "starratingValue": "3"
+    },
+    {
+      "id": 2,
+      "imagelink": "https://www.notebook-driver.com/wp-content/uploads/2016/04/Gateway-NE571-Laptop-280x280.jpg",
+      "price": "₹ 60,000",
+      "gallery": [
+        {
+          "id": 1,
+          "imagelink": "https://p.kindpng.com/picc/s/199-1997479_best-ultrabook-laptop-hd-png-download.png",
+          "price": "₹ 30,000",
+          "imagename": "Acer",
+          "description": "Acer laptops are very popular for their high quality and low price. They have a wide range of products, from the most basic to the highest end models. The acer laptop is also known as one of the best brands in terms of performance/price ratio."
+        },
+        {
+          "id": 2,
+          "imagelink": "https://png.pngitem.com/pimgs/s/193-1937081_apple-macbook-air-2018-space-grey-hd-png.png",
+          "price": "₹ 30,000",
+          "imagename": "Apple",
+          "description": "The Macbook Air 13″ or Macbook Air 2017.It is one of the most popular macbooks made by Apple. Its build quality and operating system really nailed it. Combination of hardware and software make it one of the best on the market."
+        },
+        {
+          "id": 3,
+          "imagelink": "https://p.kindpng.com/picc/s/265-2651115_laptop-white-orange-image-laptop-clipart-computer-cartoon.png",
+          "price": "₹ 30,000",
+          "imagename": "Hp",
+          "description": "The CHARGE light may flash for the following reasons: The environmental temperature is too cold to charge the battery pack. The battery pack has not been used for a long time. There is a poor connection between the battery and charger.0."
+        },
+        {
+          "id": 4,
+          "imagelink": "https://optimacomputerbd.com/wp-content/uploads/2021/11/Asus-Laptop-VivoBook-15-E410MA-280x280.png",
+          "price": "₹ 30,000",
+          "imagename": "Dell",
+          "description": "For most Dell computers, you can find the product model number on a label or sticker that is on the outside of the case. Dell laptops - Bottom cover, base, battery compartment, screen, keyboard trim, or palm rest."
+        },
+        {
+          "id": 5,
+          "imagelink": "https://aztechonline.com/cache/medium/product/12651/faIzTlFLAVrSunX1oXfCMLCcNg5uCpVRRTxxPGg2.jpeg",
+          "price": "₹ 30,000",
+          "imagename": "Lenova",
+          "description": "HP specialized in developing and manufacturing computing, data storage, and networking hardware; designing software; and delivering services."
+        }
+      ],
+      "actulprice": "10%off",
+      "imagename": "Laptop",
+      "starratingValue": "3"
+    },
+    {
+      "id": 3,
+      "imagelink": "https://cdn1.smartprix.com/rx-icCU4co6j-w280-h280/lg-gl-c322kpzy-308-l.jpg",
+      "price": "₹ 30,000",
+      "gallery": [
+        {
+          "id": 1,
+          "imagelink": "https://i.pinimg.com/474x/a8/33/6b/a8336b5356e53ec51d16f47c6a02a20b--smeg-see-it.jpg",
+          "price": "₹ 30,000",
+          "imagename": "whirlpool",
+          "description": "Single door refrigerators come with many useful benefits. Single door refrigerators use approximately 30-40% less energy than double door refrigerators"
+        },
+        {
+          "id": 2,
+          "imagelink": "https://www.indianonshop.com/wp-content/uploads/2020/09/godrej-311l-1-280x280.jpg",
+          "price": "₹ 30,000",
+          "imagename": "samsung",
+          "description": "Single door refrigerators come with many useful benefits. Single door refrigerators use approximately 30-40% less energy than double door refrigerators"
+        },
+        {
+          "id": 3,
+          "imagelink": "https://dimensiva.com/wp-content/uploads/edd/2022/09/side-by-side-gslv-fridge-freezer-2022-by-lg-280x280.jpg",
+          "price": "₹ 30,000",
+          "imagename": "lg",
+          "description": "A refrigerator, colloquially fridge, is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature."
+        },
+        {
+          "id": 4,
+          "imagelink": "https://pricespy-75b8.kxcdn.com/product/standard/280/5338457.jpg",
+          "price": "₹ 30,000",
+          "imagename": "samsung",
+          "description": "A refrigerator, colloquially fridge, is a commercial and home appliance consisting of a thermally insulated compartment and a heat pump (mechanical, electronic or chemical) that transfers heat from its inside to its external environment so that its inside is cooled to a temperature below the room temperature."
+        },
+        {
+          "id": 5,
+          "imagelink": "https://www.indianonshop.com/wp-content/uploads/2020/09/RECCONET-DC-190-1-280x280.jpg",
+          "price": "₹ 30,000",
+          "imagename": "lg",
+          "description": "Single door refrigerators come with many useful benefits. Single door refrigerators use approximately 30-40% less energy than double door refrigerators"
+        }
+      ],
+      "actulprice": "5%off",
+      "imagename": "Fridge",
+      "starratingValue": "3"
+    },
+    {
+      "id": 4,
+      "imagelink": "https://cairocart.com/pub/media/catalog/product/cache/411fa0294fb36382a437c2a526801bc8/0/0/00-rpm-inox-waw325x0eg.jpg",
+      "price": "₹ 40,000",
+      "gallery": [
+        {
+          "id": 1,
+          "imagelink": "https://www.compareprix.in/images/product/large/godrej-gws-720-ct-7-2-kg.png",
+          "price": "₹ 30,000",
+          "imagename": "samsung",
+          "description": "They have a drum rotating around a horizontal axis like a front loader, but there is no front door. They have a liftable top load lid like a standard washer. These machines operate and spin just like a front-loader and use half the amount of water required for a standard washer."
+        },
+        {
+          "id": 2,
+          "imagelink": "https://cdn1.smartprix.com/rx-ip7Bg1BDR-w280-h280/thomson-sa98500-8-5.jpg",
+          "price": "₹ 30,000",
+          "imagename": "lg",
+          "description": "They have a drum rotating around a horizontal axis like a front loader, but there is no front door. They have a liftable top load lid like a standard washer. These machines operate and spin just like a front-loader and use half the amount of water required for a standard washer."
+        },
+        {
+          "id": 3,
+          "imagelink": "https://demo.dhukutimart.com/uploads/resized/1649149334_f910d63743f87ff8e1ef_fit_280x280.jpg",
+          "price": "₹ 30,000",
+          "imagename": "whirlpool",
+          "description": "Apart from the location of the door, a front load machine has no agitator and uses paddles on the side of the drum. These washing machine features mean that front load washing machines are generally gentler on your clothes than top load ones."
+        },
+        {
+          "id": 4,
+          "imagelink": "https://www.bajajfinserv.in/FlagshipProduct-LWMS82G-Flagship%20product%201.png",
+          "price": "₹ 30,000",
+          "imagename": "lg",
+          "description": "Apart from the location of the door, a front load machine has no agitator and uses paddles on the side of the drum. These washing machine features mean that front load washing machines are generally gentler on your clothes than top load ones."
+        },
+        {
+          "id": 5,
+          "imagelink": "https://cdn1.smartprix.com/rx-iJm5zYNjR-w280-h280/godrej-ws-edge-720-c.jpg",
+          "price": "₹ 30,000",
+          "imagename": "samsung",
+          "description": "They have a drum rotating around a horizontal axis like a front loader, but there is no front door. They have a liftable top load lid like a standard washer. These machines operate and spin just like a front-loader and use half the amount of water required for a standard washer."
+        }
+      ],
+      "actulprice": "30%off",
+      "imagename": "washingMachne",
+      "starratingValue": "3"
+    },
+    {
+      "id": 5
+    }
+  ]
+}

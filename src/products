@@ -1,0 +1,20 @@
+products
+
+1.id
+2.Name
+3. price
+4.images(all url)
+5. description
+6.categiore
+
+
+id :1,
+"name": "red bangles",
+"price":400,
+images: {
+   "main image":  "https://pricespy-75b8.kxcdn.com/product/standard/280/5306321.jpg",
+    "remaining images":["https://theimaginestore.com/cache/medium/product/1553/vXO1UuLAL0TMK2L04jErmCPZFFh4FGxtBcLxiysH.jpg"],
+
+},
+"description":"dhvcjhvdscjdsbchjsmBVXNSzvcxhgdsvh",
+"category":"bangles"
