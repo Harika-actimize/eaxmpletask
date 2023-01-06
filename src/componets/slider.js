@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import {Card,Button} from 'react-bootstrap';
-// import CardGroup from 'react-bootstrap/CardGroup';
 import axios from "axios"; 
 
 export default class ProductSlider extends Component {
